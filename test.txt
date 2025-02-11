@@ -1,0 +1,1 @@
+http://127.0.0.1:5000/generate-qr-SAP?size=300x300&teks=Fikri%20Putra%20Hidayat
